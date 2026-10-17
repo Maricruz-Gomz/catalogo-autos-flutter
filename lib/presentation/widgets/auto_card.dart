@@ -29,7 +29,7 @@ class AutoCard extends StatelessWidget {
               borderRadius: BorderRadius.zero,
             ),
             Padding(
-              padding: const EdgeInsets.all(12),
+              padding: const EdgeInsets.all(16),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
