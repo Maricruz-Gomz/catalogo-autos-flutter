@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import '../../data/models/auto.dart';
 import '../../data/repositories/auto_repository.dart';
 import '../widgets/auto_card.dart';
+import 'detail_screen.dart';
+import 'search_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -17,7 +19,18 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Catálogo de Autos')),
+      appBar: AppBar(
+        title: const Text('Catálogo de Autos'),
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.search),
+            onPressed: () => Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => const SearchScreen()),
+            ),
+          ),
+        ],
+      ),
       body: FutureBuilder<List<Auto>>(
         future: _autos,
         builder: (context, snapshot) {
@@ -36,7 +49,12 @@ class _HomeScreenState extends State<HomeScreen> {
             separatorBuilder: (context, index) => const SizedBox(height: 12),
             itemBuilder: (context, i) => AutoCard(
               auto: autos[i],
-              onTap: () {},
+              onTap: () => Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => DetailScreen(auto: autos[i]),
+                ),
+              ),
             ),
           );
         },
