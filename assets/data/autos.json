@@ -7,7 +7,7 @@
     "categoria": "Sedán",
     "precio": 389900,
     "descripcion": "Sedán compacto, económico y confiable para el día a día.",
-    "imagen": "https://picsum.photos/seed/corolla/600/400",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2023-2025_Toyota_GR_Corolla_RZ_rear.jpg/960px-2023-2025_Toyota_GR_Corolla_RZ_rear.jpg",
     "caracteristicas": ["Motor 2.0L", "Transmisión automática", "Pantalla táctil"]
   },
   {
@@ -18,7 +18,7 @@
     "categoria": "SUV",
     "precio": 549900,
     "descripcion": "SUV familiar con acabados premium y buena seguridad.",
-    "imagen": "https://picsum.photos/seed/cx5/600/400",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2024_Mazda_CX-5_XDL.jpg/960px-2024_Mazda_CX-5_XDL.jpg",
     "caracteristicas": ["Motor 2.5L", "Tracción delantera", "Cámara 360"]
   },
   {
@@ -29,16 +29,16 @@
     "categoria": "Deportivo",
     "precio": 989900,
     "descripcion": "Deportivo clásico con motor V8 y diseño agresivo.",
-    "imagen": "https://picsum.photos/seed/mustang/600/400",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2022_Ford_Mustang_Mach_1_1.jpg/960px-2022_Ford_Mustang_Mach_1_1.jpg",
     "caracteristicas": ["Motor V8 5.0L", "450 hp", "Modos de manejo"]
   },
-  {"id": 4, "marca": "Honda", "modelo": "Civic", "anio": 2023, "categoria": "Sedán", "precio": 429900, "descripcion": "Sedán deportivo con buen equilibrio entre confort y desempeño.", "imagen": "https://picsum.photos/seed/civic/600/400", "caracteristicas": ["Motor 1.5L turbo", "Honda Sensing", "Apple CarPlay"]},
-  {"id": 5, "marca": "Nissan", "modelo": "Kicks", "anio": 2023, "categoria": "SUV", "precio": 379900, "descripcion": "SUV compacta ideal para ciudad, ágil y eficiente.", "imagen": "https://picsum.photos/seed/kicks/600/400", "caracteristicas": ["Motor 1.6L", "Cámara trasera", "Pantalla 8 pulgadas"]},
-  {"id": 6, "marca": "Chevrolet", "modelo": "Camaro", "anio": 2022, "categoria": "Deportivo", "precio": 949900, "descripcion": "Deportivo de líneas marcadas y gran potencia.", "imagen": "https://picsum.photos/seed/camaro/600/400", "caracteristicas": ["Motor V6", "Tracción trasera", "Asientos deportivos"]},
-  {"id": 7, "marca": "Volkswagen", "modelo": "Jetta", "anio": 2024, "categoria": "Sedán", "precio": 399900, "descripcion": "Sedán amplio y tranquilo para viajes largos.", "imagen": "https://picsum.photos/seed/jetta/600/400", "caracteristicas": ["Motor 1.4L turbo", "Cajuela amplia", "Control de crucero"]},
-  {"id": 8, "marca": "Kia", "modelo": "Sportage", "anio": 2024, "categoria": "SUV", "precio": 529900, "descripcion": "SUV moderna con tecnología de seguridad completa.", "imagen": "https://picsum.photos/seed/sportage/600/400", "caracteristicas": ["Motor 2.0L", "Techo panorámico", "Asistente de carril"]},
-  {"id": 9, "marca": "Toyota", "modelo": "Hilux", "anio": 2023, "categoria": "Pickup", "precio": 699900, "descripcion": "Pickup resistente para trabajo y aventura.", "imagen": "https://picsum.photos/seed/hilux/600/400", "caracteristicas": ["Motor diésel 2.8L", "Tracción 4x4", "Caja de carga"]},
-  {"id": 10, "marca": "Ford", "modelo": "Ranger", "anio": 2024, "categoria": "Pickup", "precio": 679900, "descripcion": "Pickup versátil con buena capacidad de remolque.", "imagen": "https://picsum.photos/seed/ranger/600/400", "caracteristicas": ["Motor 2.3L turbo", "Modo todoterreno", "Pantalla 12 pulgadas"]},
-  {"id": 11, "marca": "Mazda", "modelo": "MX-5", "anio": 2023, "categoria": "Deportivo", "precio": 619900, "descripcion": "Roadster ligero y divertido de manejar.", "imagen": "https://picsum.photos/seed/mx5/600/400", "caracteristicas": ["Motor 2.0L", "Techo convertible", "Transmisión manual"]},
-  {"id": 12, "marca": "Hyundai", "modelo": "Tucson", "anio": 2024, "categoria": "SUV", "precio": 559900, "descripcion": "SUV de diseño llamativo y cabina espaciosa.", "imagen": "https://picsum.photos/seed/tucson/600/400", "caracteristicas": ["Motor 2.5L", "Tablero digital", "Carga inalámbrica"]}
+  {"id": 4, "marca": "Honda", "modelo": "Civic", "anio": 2023, "categoria": "Sedán", "precio": 429900, "descripcion": "Sedán deportivo con buen equilibrio entre confort y desempeño.", "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Honda_Civic_XI_hatchback_001.jpg/960px-Honda_Civic_XI_hatchback_001.jpg", "caracteristicas": ["Motor 1.5L turbo", "Honda Sensing", "Apple CarPlay"]},
+  {"id": 5, "marca": "Nissan", "modelo": "Kicks", "anio": 2023, "categoria": "SUV", "precio": 379900, "descripcion": "SUV compacta ideal para ciudad, ágil y eficiente.", "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2023_Nissan_Kicks_au_SIAM_2023.JPG/960px-2023_Nissan_Kicks_au_SIAM_2023.JPG", "caracteristicas": ["Motor 1.6L", "Cámara trasera", "Pantalla 8 pulgadas"]},
+  {"id": 6, "marca": "Chevrolet", "modelo": "Camaro", "anio": 2022, "categoria": "Deportivo", "precio": 949900, "descripcion": "Deportivo de líneas marcadas y gran potencia.", "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Chevrolet_Camaro_Hirschaid_2022-20220709-RM-111908.jpg/960px-Chevrolet_Camaro_Hirschaid_2022-20220709-RM-111908.jpg", "caracteristicas": ["Motor V6", "Tracción trasera", "Asientos deportivos"]},
+  {"id": 7, "marca": "Volkswagen", "modelo": "Jetta", "anio": 2024, "categoria": "Sedán", "precio": 399900, "descripcion": "Sedán amplio y tranquilo para viajes largos.", "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/VOLKSWAGEN_JETTA_%28A7%29.jpg/960px-VOLKSWAGEN_JETTA_%28A7%29.jpg", "caracteristicas": ["Motor 1.4L turbo", "Cajuela amplia", "Control de crucero"]},
+  {"id": 8, "marca": "Kia", "modelo": "Sportage", "anio": 2024, "categoria": "SUV", "precio": 529900, "descripcion": "SUV moderna con tecnología de seguridad completa.", "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2024_Kia_Sportage_SX_HEV_front.jpg/960px-2024_Kia_Sportage_SX_HEV_front.jpg", "caracteristicas": ["Motor 2.0L", "Techo panorámico", "Asistente de carril"]},
+  {"id": 9, "marca": "Toyota", "modelo": "Hilux", "anio": 2023, "categoria": "Pickup", "precio": 699900, "descripcion": "Pickup resistente para trabajo y aventura.", "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Toyota_HiLux_GR_Sport_1X7A7281.jpg/960px-Toyota_HiLux_GR_Sport_1X7A7281.jpg", "caracteristicas": ["Motor diésel 2.8L", "Tracción 4x4", "Caja de carga"]},
+  {"id": 10, "marca": "Ford", "modelo": "Ranger", "anio": 2024, "categoria": "Pickup", "precio": 679900, "descripcion": "Pickup versátil con buena capacidad de remolque.", "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Ford_Ranger_Raptor_%28P703%29_DSC_7062.jpg/960px-Ford_Ranger_Raptor_%28P703%29_DSC_7062.jpg", "caracteristicas": ["Motor 2.3L turbo", "Modo todoterreno", "Pantalla 12 pulgadas"]},
+  {"id": 11, "marca": "Mazda", "modelo": "MX-5", "anio": 2023, "categoria": "Deportivo", "precio": 619900, "descripcion": "Roadster ligero y divertido de manejar.", "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mazda_MX-5_RF_IMG_7340.jpg/960px-Mazda_MX-5_RF_IMG_7340.jpg", "caracteristicas": ["Motor 2.0L", "Techo convertible", "Transmisión manual"]},
+  {"id": 12, "marca": "Hyundai", "modelo": "Tucson", "anio": 2024, "categoria": "SUV", "precio": 559900, "descripcion": "SUV de diseño llamativo y cabina espaciosa.", "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Hyundai_Tucson_%28NX4%2C_SWB%29_PHEV_1X7A1859.jpg/960px-Hyundai_Tucson_%28NX4%2C_SWB%29_PHEV_1X7A1859.jpg", "caracteristicas": ["Motor 2.5L", "Tablero digital", "Carga inalámbrica"]}
 ]
