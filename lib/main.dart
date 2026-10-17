@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Catálogo de Autos',
+      title: 'AutoCatálogo',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.light,
       home: Builder(
