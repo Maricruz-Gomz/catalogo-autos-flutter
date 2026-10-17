@@ -67,7 +67,7 @@ class WelcomeScreen extends StatelessWidget {
                 ),
                 const SizedBox(height: 12),
                 const Text(
-                  'Explora modelos, categorías y características de tus autos favoritos.',
+                  'Descubre autos de todas las categorías',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 15,
