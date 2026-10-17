@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anio": 2023,
+    "categoria": "Sedán",
+    "precio": 389900,
+    "descripcion": "Sedán compacto, económico y confiable para el día a día.",
+    "imagen": "https://picsum.photos/seed/corolla/600/400",
+    "caracteristicas": ["Motor 2.0L", "Transmisión automática", "Pantalla táctil"]
+  },
+  {
+    "id": 2,
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "anio": 2024,
+    "categoria": "SUV",
+    "precio": 549900,
+    "descripcion": "SUV familiar con acabados premium y buena seguridad.",
+    "imagen": "https://picsum.photos/seed/cx5/600/400",
+    "caracteristicas": ["Motor 2.5L", "Tracción delantera", "Cámara 360"]
+  },
+  {
+    "id": 3,
+    "marca": "Ford",
+    "modelo": "Mustang",
+    "anio": 2022,
+    "categoria": "Deportivo",
+    "precio": 989900,
+    "descripcion": "Deportivo clásico con motor V8 y diseño agresivo.",
+    "imagen": "https://picsum.photos/seed/mustang/600/400",
+    "caracteristicas": ["Motor V8 5.0L", "450 hp", "Modos de manejo"]
+  }
+]
